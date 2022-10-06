@@ -1,0 +1,20 @@
+.home{
+    font-family: fantasy;
+    padding: 10% 0px 0px 20%; 
+}
+.table-head{
+    min-width: 500px;
+ padding-top: 4%;
+}
+.img-book{
+    width: 100px;
+}
+.home-img{
+    padding-left: 23%;
+}
+.table-heading{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+    padding-top: 4%;
+}
